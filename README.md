@@ -95,3 +95,5 @@ All processing happens in your browser. The tool:
 - Anthropic Messages API (`claude-sonnet-4-20250514`)
 
 ---
+
+MIT license.
