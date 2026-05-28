@@ -2,7 +2,7 @@
 
 A browser-based tool for migrating Claude accounts between workspaces (e.g. personal to team, or Team to Enterprise). Built for the Mindgruve and Moontide Agency teams.
 
-**Live tool:** `[add your GitHub Pages URL here]`
+**Live tool:** https://angeleenmcw.github.io/claude-migration-assistant/
 
 ---
 
@@ -96,6 +96,4 @@ All processing happens in your browser. The tool:
 
 ---
 
-## Based on
-
-[ukogan/claude-migration-assistant](https://github.com/ukogan/claude-migration-assistant) — original open source tool by Uri Kogan, MIT license.
+MIT license.
